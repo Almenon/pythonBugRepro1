@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "pi_0_Surveillance"
+		},
+		{
+			"path": "pi_1_server"
+		},
+		{
+			"path": "pi_2_dev"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "pi_1_server"
+	}
+}
